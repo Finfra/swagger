@@ -1,0 +1,6 @@
+# Ignore all json files
+*.json
+
+# But not these ones
+!s.json
+!swagger.json
